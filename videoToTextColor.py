@@ -13,7 +13,7 @@ height = int(width / (2 * aspect_ratio))
 
 
 #Our characters, and their approximate brightness values
-charSet = " ,(S#g@@g#S(, "
+charSet = " riledWWdelir "
 
 # Generates a character sequence to set the foreground and background colors
 def setColor (bg, fg):
